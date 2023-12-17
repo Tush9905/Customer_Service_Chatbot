@@ -116,6 +116,10 @@ __pypackages__/
 celerybeat-schedule
 celerybeat.pid
 
+# The Vector DB and the faq.csv
+faiss_index/
+faqs.csv
+
 # SageMath parsed files
 *.sage.py
 
